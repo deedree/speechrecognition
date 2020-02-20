@@ -23,8 +23,7 @@ return files_;
 
 let audioArray = getFiles('audioFiles')
 
-console.log(audioArray)
-
+console.log(audioArray);
 
 async function azureSpeech() {
 
